@@ -27,7 +27,7 @@
   <p align="center">
     Realtime Data Management System
     <br />
-    <a href="https://github.com/redfruitt/Chronos"><strong>Explore the docs »</strong></a>
+    <a href="https://redfruitt-chronos.readthedocs.io/en/latest/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/redfruitt/Chronos">View Demo</a>
